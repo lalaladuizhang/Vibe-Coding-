@@ -1,0 +1,6 @@
+gradio>=5.0,<6.0
+opencv-python-headless>=4.10
+numpy>=1.26
+Pillow>=10.0
+scipy>=1.11
+scikit-image>=0.22
