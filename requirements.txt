@@ -1,6 +1,6 @@
-gradio>=5.0,<6.0
-opencv-python-headless>=4.10
+streamlit>=1.44
+opencv-python-headless>=4.9
 numpy>=1.26
+scipy>=1.12
 Pillow>=10.0
-scipy>=1.11
 scikit-image>=0.22
